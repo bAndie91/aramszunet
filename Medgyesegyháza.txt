@@ -1,4 +1,3 @@
-   Damjanich utca    49. - 65.; 54. - 68. 2021.11.10.   08:00 - 15:00
-   Deák Ferenc utca  55. - 67.; 46. - 54. 2021.11.10.   08:00 - 15:00
-   Dózsa György utca - ; 28. - 30.        2021.11.10.   08:00 - 15:00
-   Zsilinszky utca   19. - 19.; -         2021.11.10.   08:00 - 15:00
+   crawler: A település 'Medgyesegyháza' nincs a tervezett áramszünetek listájában.
+
+
